@@ -1,0 +1,1 @@
+data = dlmread('swissroll.dat');
